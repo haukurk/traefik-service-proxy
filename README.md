@@ -1,6 +1,6 @@
 # Service Proxy for Containers
 
-This repository represents a base for service proxy container that can serve services that are running in containers (not swarm or kubernetes, but it is possible). It uses by default 
+This repository represents a base for service proxy container that can serve services that are running in containers (not swarm or kubernetes, but it is possible). It uses by default ``letsencrypt`` for certification issuing.
 
 To start using it:
 
